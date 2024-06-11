@@ -278,7 +278,7 @@ To set up and run the Hospital Management System, follow these steps:
 
 1. **Clone the repository**:
    \`\`\`bash
-   git clone https://github.com/yourusername/hospital-management-system.git
+   git clone https://github.com/revanth336/hospital-management-system.git
    \`\`\`
 
 2. **Navigate to the project directory**:
