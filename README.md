@@ -9,6 +9,10 @@ The Hospital Management System is a comprehensive software solution designed to 
 
 The objective of the Hospital Management System project is to create an efficient and organized system to manage various aspects of a hospital, including patient information, doctor schedules, departmental operations, and financial transactions. The system aims to streamline hospital processes, improve patient care, enhance communication between staff members, and facilitate accurate record-keeping for administrative purposes.
 
+## Purpose
+
+The purpose of the Hospital Management System project is to streamline and digitize hospital operations, thereby improving efficiency, reducing errors, and enhancing patient care. It incorporates modules for managing patient records, doctor appointments, and financial transactions. By centralizing these processes, it provides valuable insights for administrators to optimize resource utilization and hospital performance.
+
 ## Requirements 
 - mysql-connector-python==8.0.27
 - pandas==1.3.4
