@@ -1,6 +1,6 @@
 # Hospital_DB_Management_System
 ___
-<img src="https://blog.decos.com/hubfs/Hero%20blog%20data%20analytics.png#keepProtocol" alt="Image" width="1000" height="300">
+<img src="https://blog.decos.com/hubfs/Hero%20blog%20data%20analytics.png#keepProtocol" alt="Image" width="1000" height="400">
 
 
 ## Abstract
